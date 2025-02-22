@@ -118,6 +118,10 @@
 
 ### Technology Used
 
+- **Frontend:** Built using the Next.js framework for a dynamic and responsive user experience.
+- **Backend:** – Powered by Node.js for robust server-side operations.
+- **Database:** – PostgreSQL for structured, scalable, and reliable data management.
+- **API Architecture:** – Implements RESTful APIs for seamless system communication.
 - **Artificial Intelligence & Machine Learning:** For resume parsing, candidate-job matching, and personalized career growth suggestions.
 - **Natural Language Processing (NLP):** To generate optimized job posts and analyze video interviews.
 - **Blockchain Integration:** For secure, tamper-proof certification uploads.
